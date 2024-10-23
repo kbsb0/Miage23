@@ -1,6 +1,12 @@
 # WEEK 4 :
 
+****
 # KHADIJA BESBAS 
+
+* relus les slides concernant le double dispatch ( que j'avais déjà eu l'occasion de voir en meta )
+* Avancé sur mon kata
+
+Je n'ai pas de question particulière.
 
 ****
 # Cyril Godet
